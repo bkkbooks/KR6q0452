@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0452/j/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 鐵眉三巴掌禪師語錄
+  edition:
+    short: j
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J29/J29nB242.xml
+    old_id: J29nB242
+hash: sha256:7c6c8afb178640184a4df937b4230ca59ebb0ef51108e25dd02aa83b5c34d3a7

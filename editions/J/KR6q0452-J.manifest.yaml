@@ -1,0 +1,328 @@
+canonical_identifier: bkk:krp/KR6q0452/J/v1
+canonical_location: https://kanripo.org/bkk/KR6q0452/J/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 鐵眉三巴掌禪師語錄
+  identifiers:
+    krp: KR6q0452
+    cbeta: J29nB242
+    cbeta_old_id: J29nB242
+    authorityid: CA0005910
+    json_key: JB242
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J29/J29nB242.xml
+    old_id: J29nB242
+  edition:
+    short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0452_000-J.yaml, hash: 'sha256:7c6c8afb178640184a4df937b4230ca59ebb0ef51108e25dd02aa83b5c34d3a7'}
+  - {seq: 1, filename: KR6q0452_001-J.yaml, hash: 'sha256:60d8b98135f80830bbdd3709ae582b34923d74cbd2f5b64ce007867614b58094'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0452_000-J.markers.yaml, hash: 'sha256:00b18d8fdc9cf781d0adb090b044e280e5a0941b28445d589dc0560fd28dad64'}
+  - {seq: 1, role: markers, filename: assets/KR6q0452_001-J.markers.yaml, hash: 'sha256:56b5b56ecf9780722346c717156ac0acf0ba4b101556e92a44086d68a64325fb'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 5642
+  label: 鐵眉三巴掌禪師語錄
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 上堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-2
+    span:
+    - body
+    - 1028
+    - 1028
+  label: 小參
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-3
+    span:
+    - body
+    - 1488
+    - 1488
+  label: 茶話
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-4
+    span:
+    - body
+    - 1798
+    - 1798
+  label: 示眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-5
+    span:
+    - body
+    - 1947
+    - 1947
+  label: 機緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-6
+    span:
+    - body
+    - 2918
+    - 2918
+  label: 答問
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-7
+    span:
+    - body
+    - 3449
+    - 3449
+  label: 偈頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-8
+    span:
+    - body
+    - 3451
+    - 3451
+  label: 無題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-9
+    span:
+    - body
+    - 3839
+    - 3839
+  label: 頌聚雲老人陞座
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-10
+    span:
+    - body
+    - 3878
+    - 3878
+  label: 吹萬大師命讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-11
+    span:
+    - body
+    - 3917
+    - 3917
+  label: 為吹萬大師對靈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-12
+    span:
+    - body
+    - 3953
+    - 3953
+  label: 李解元看師錄卷卻請題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-13
+    span:
+    - body
+    - 3990
+    - 3990
+  label: 一護法請題蜘蛛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-14
+    span:
+    - body
+    - 4042
+    - 4042
+  label: 頌萬法歸一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-15
+    span:
+    - body
+    - 4067
+    - 4067
+  label: 一歸何處
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-16
+    span:
+    - body
+    - 4099
+    - 4099
+  label: 青州布衫
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-17
+    span:
+    - body
+    - 4131
+    - 4131
+  label: 題拐李
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-18
+    span:
+    - body
+    - 4162
+    - 4162
+  label: 眾指火請題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-19
+    span:
+    - body
+    - 4195
+    - 4195
+  label: 僧舉秤請題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-20
+    span:
+    - body
+    - 4235
+    - 4235
+  label: 忠路司尊同師曬日請題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-21
+    span:
+    - body
+    - 4285
+    - 4285
+  label: 園中菊開請題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-22
+    span:
+    - body
+    - 4319
+    - 4319
+  label: 請題雞冠花
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-23
+    span:
+    - body
+    - 4352
+    - 4352
+  label: 四季景
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-24
+    span:
+    - body
+    - 4556
+    - 4556
+  label: 住山歌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-25
+    span:
+    - body
+    - 4632
+    - 4632
+  label: 解脫歌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-26
+    span:
+    - body
+    - 4733
+    - 4733
+  label: 臨冬詠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-27
+    span:
+    - body
+    - 4791
+    - 4791
+  label: 詠水牯牛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-28
+    span:
+    - body
+    - 4845
+    - 4845
+  label: 行狀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0452_J_001-mulu-29
+    span:
+    - body
+    - 5434
+    - 5434
+  label: 巴掌歌
+  type: mulu
+  level: 1
+hash: sha256:bda9835122dce7d2be70731dcd093546aeee08b3080d344a6a3a7de553775528

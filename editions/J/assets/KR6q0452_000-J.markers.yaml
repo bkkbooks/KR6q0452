@@ -1,0 +1,9 @@
+canonical_identifier: bkk:krp/KR6q0452/J/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR6q0452_J_000-0679a, 'n': 0679a, ed: J, source_xml_id: J29.B242.0679a}
+  - {type: line-break, offset: 0, content: '', id: KR6q0452_J_000-0679a01, ed: J, 'n': 0679a01}
+  body: []
+  back: []
+hash: sha256:00b18d8fdc9cf781d0adb090b044e280e5a0941b28445d589dc0560fd28dad64
