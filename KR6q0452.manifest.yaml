@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0452_000.yaml, hash: 'sha256:7c6c8afb178640184a4df937b4230ca59ebb0ef51108e25dd02aa83b5c34d3a7'}
-  - {seq: 1, filename: KR6q0452_001.yaml, hash: 'sha256:f74039e8e3f61470e27a6b222486fd1b9ef9d990e6b1fb9f26e88c576434d4f3'}
+  - {seq: 1, filename: KR6q0452_001.yaml, hash: 'sha256:60d8b98135f80830bbdd3709ae582b34923d74cbd2f5b64ce007867614b58094'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0452_001.markers.yaml, hash: 'sha256:7afb49f22c493d490a5def750960d242d9642c7038d49cdcc20afc4af19b0ab3'}
+  - {seq: 0, role: markers, filename: assets/KR6q0452_000.markers.yaml, hash: 'sha256:59bd2c4e703c0d6e3665ee4f51d5bd7afd6e3ab57940638cf1b4c401363e5e1e'}
+  - {seq: 1, role: markers, filename: assets/KR6q0452_001.markers.yaml, hash: 'sha256:836391d6e0e7d1d41974e7bb9a48c1a66a75d1c11823c218d20eb4ba82e34935'}
 table_of_contents:
 - ref:
     seq: 1
@@ -326,7 +327,4 @@ table_of_contents:
   label: 巴掌歌
   type: mulu
   level: 1
-hash: sha256:2612548065f2e6e7362379351be598caf05b95e532907cd7b85bc3fd7199b74e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1b76938c45b0430af2320b5774a6262ffc8cc8e7ac020d28e66f252834f1e6f2
