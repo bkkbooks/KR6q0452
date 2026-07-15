@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0452/v1
 canonical_location: https://kanripo.org/bkk/KR6q0452/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 鐵眉三巴掌禪師語錄
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0452_000.yaml, hash: 'sha256:7c6c8afb178640184a4df937b4230ca59ebb0ef51108e25dd02aa83b5c34d3a7'}
-  - {seq: 1, filename: KR6q0452_001.yaml, hash: 'sha256:60d8b98135f80830bbdd3709ae582b34923d74cbd2f5b64ce007867614b58094'}
+  - {seq: 1, filename: KR6q0452_001.yaml, hash: 'sha256:60146d99b87a5e2507c4afa23ac700254a5361a231d8d128b9aa4a093e679587'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0452_000.markers.yaml, hash: 'sha256:59bd2c4e703c0d6e3665ee4f51d5bd7afd6e3ab57940638cf1b4c401363e5e1e'}
-  - {seq: 1, role: markers, filename: assets/KR6q0452_001.markers.yaml, hash: 'sha256:836391d6e0e7d1d41974e7bb9a48c1a66a75d1c11823c218d20eb4ba82e34935'}
+  - {seq: 1, role: markers, filename: assets/KR6q0452_001.markers.yaml, hash: 'sha256:46a7923b28cd2183347d95d5434b89a704a6ef3ce2ff2513929dc1fb3b6039cb'}
 table_of_contents:
 - ref:
     seq: 1
@@ -327,4 +327,7 @@ table_of_contents:
   label: 巴掌歌
   type: mulu
   level: 1
-hash: sha256:1b76938c45b0430af2320b5774a6262ffc8cc8e7ac020d28e66f252834f1e6f2
+hash: sha256:cde8cbc311c64d117b4d4dcd9861c7210f6740f3c7e102024960632c37fe5f10
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
